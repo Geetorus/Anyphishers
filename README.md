@@ -1,5 +1,5 @@
 <!-- Anyphisher -->
-![Logo](https://github.com/Geetorus/Anyphishers/blob/main/bypassing-lastpasss-security-a-phishing-attack-would-serve-just-right.gif) 
+![Logo](https://github.com/Geetorus/Anyphishers/blob/main/e3269b46-fa9c-4a6f-945a-eccc268cd2dd_types%2Bof%2Bemails%2Bscam.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
 </p>
