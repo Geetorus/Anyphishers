@@ -54,8 +54,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 You can easily install zphisher in Termux by using tur-repo
 ```
 $ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
+$ pkg install Anyphisher
+$ Anyphisher
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Geetorus* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
