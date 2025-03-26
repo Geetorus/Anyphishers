@@ -3,6 +3,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Geetorus-blue?style=flat-square">
+</p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
 
